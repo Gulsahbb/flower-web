@@ -1,0 +1,98 @@
+@font-face {
+    font-family: 'tenor-sans';
+    src: url('../fonts/Tenor_Sans/TenorSans-Regular.ttf');
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'tenor-sans';
+    background-color: #fff;
+    color: #333;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    background-color: #fff;
+    border-bottom: 1px solid #ddd;
+}
+
+.logo {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+nav ul {
+    list-style: none;
+    display: flex;
+    gap: 20px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: #333;
+    font-weight: 500;
+}
+
+nav ul li a:hover {
+    color: #888;
+}
+
+
+.icons a {
+    margin-left: 20px;
+    color: #333;
+    text-decoration: none;
+    font-size: 18px;
+}
+
+.hero {
+    position: relative;
+    text-align: center;
+    margin: 20px auto;
+    max-width: 80%;
+}
+
+.hero img {
+    width: 100%;
+    height: auto;
+    display: block;
+}
+
+.text-content {
+    /* position: absolute;*/
+    bottom: 20px;
+    left: 20px;
+    color: #333;
+    text-align: right;
+}
+
+.text-content h1 {
+    text-align: left;
+    font-size: 40px;
+    font-weight: 300;
+    line-height: 1.2;
+}
+
+.cta-link {
+    display: inline-block;
+    margin-top: 10px;
+    text-decoration: none;
+    color: #333;
+    font-weight: bold;
+    border-bottom: 1px solid #333;
+    padding-bottom: 2px;
+    transition: color 0.3s, border-color 0.3s;
+}
+
+.cta-link:hover {
+    color: #888;
+    border-color: #888;
+}
