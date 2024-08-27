@@ -10,6 +10,7 @@ Bu proje, çiçek dükkanımızın online varlığını güçlendirmek ve kullan
 - Yerel Müşteriler: Mağazayı ziyaret edebilecek yerel müşteriler.
 
 ## 1.3. Temel Özellikler
+Web sitesi aşağıdaki temel özellikleri sunacaktır:
 - **Ürün Kataloğu**: Çiçekler ve bitkiler için detaylı bir ürün listesi.
 - **Sipariş ve Ödeme Sistemi**: Kullanıcıların online sipariş verebileceği bir sistem.
 - **Teslimat Bilgileri**: Teslimat bölgeleri ve koşulları hakkında bilgi.
@@ -17,7 +18,8 @@ Bu proje, çiçek dükkanımızın online varlığını güçlendirmek ve kullan
 - **Blog**: Çiçek bakımı ve mevsimsel öneriler hakkında içerikler.
 
 ## 1.4. Projenin Başarı Kriterleri
-- Kullanıcı Deneyimi (UX)
-- Mobil Uyum
-- Performans
-- Geri Bildirim
+Projenin başarı kriteri şu şekilde değerlendirilecektir:
+- Kullanıcı Deneyimi (UX): Kullanıcıların siteyi ne kadar kolay kullanabildiği.
+- Mobil Uyum: Web sitesinin mobil cihazlarda sorunsuz çalışması.
+- Performans: Web sitesinin yüklenme hızı ve sayfa geçişlerinin akıcılığı.
+- Geri Bildirim: Kullanıcı geri bildirimleri ve memnuniyet düzeyi.
