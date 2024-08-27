@@ -25,3 +25,8 @@ Projenin başarı kriteri şu şekilde değerlendirilecektir:
 - Mobil Uyum: Web sitesinin mobil cihazlarda sorunsuz çalışması.
 - Performans: Web sitesinin yüklenme hızı ve sayfa geçişlerinin akıcılığı.
 - Geri Bildirim: Kullanıcı geri bildirimleri ve memnuniyet düzeyi.
+
+# 2. Proje Planlaması ve Taslak Çıkarma
+
+## 2.1. Site Haritası (Sitemap) Oluşturma
+Amaç: Web sitenin hangi sayfalardan oluşacağını ve bu sayfaların nasıl birbirine bağlı olduğunu gösteren bir şema oluşturmak.
