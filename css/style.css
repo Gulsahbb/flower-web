@@ -9,10 +9,17 @@
     box-sizing: border-box;
 }
 
+html,
+body {
+    width: 100%;
+    height: 100%;
+}
+
 body {
     font-family: 'tenor-sans';
     background-color: #fff;
     color: #333;
+
 }
 
 header {
@@ -20,7 +27,6 @@ header {
     justify-content: space-between;
     align-items: center;
     padding: 20px;
-    padding-top: 50px;
     background-color: #fff;
     /*  border-bottom: 1px solid #ddd;*/
 }
@@ -62,7 +68,7 @@ nav ul li a:hover {
     position: relative;
     text-align: center;
     margin: 20px auto;
-    max-width: 80%;
+    max-width: 50%;
     overflow: hidden;
 }
 
