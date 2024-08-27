@@ -14,3 +14,9 @@ Bu proje, çiçek dükkanımızın online varlığını güçlendirmek ve kullan
 - **Teslimat Bilgileri**: Teslimat bölgeleri ve koşulları hakkında bilgi.
 - **İletişim Bilgileri**: Mağaza adresi, telefon numarası, harita ve sosyal medya bağlantıları.
 - **Blog**: Çiçek bakımı ve mevsimsel öneriler hakkında içerikler.
+
+## 4. Projenin Başarı Kriterleri
+- Kullanıcı Deneyimi (UX)
+- Mobil Uyum
+- Performans
+- Geri Bildirim
