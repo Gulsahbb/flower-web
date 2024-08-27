@@ -30,3 +30,13 @@ Projenin başarı kriteri şu şekilde değerlendirilecektir:
 
 ## 2.1. Site Haritası (Sitemap) Oluşturma
 Amaç: Web sitenin hangi sayfalardan oluşacağını ve bu sayfaların nasıl birbirine bağlı olduğunu gösteren bir şema oluşturmak.
+
+- Home (Anasayfa)
+- Products (Ürünler)
+  - Çiçek Aranjmanları
+  - Saksı Bitkileri
+  - Hediyelik Ürünler
+- Order (Sipariş Ver)
+- Delivery Information (Teslimat Bilgileri)
+- Blog
+- Contact (İletişim)
