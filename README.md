@@ -36,8 +36,8 @@ Amaç: Web sitenin hangi sayfalardan oluşacağını ve bu sayfaların nasıl bi
   - Çiçek Aranjmanları
   - Saksı Bitkileri
   - Hediyelik Ürünler
-- Order (Sipariş Ver)
-- Delivery Information (Teslimat Bilgileri)
+- Order Now (Şimdi Sipariş Ver)
+  - Delivery Information (Teslimat Bilgileri)
 - Blog
 - Contact (İletişim)
   
