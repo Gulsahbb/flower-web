@@ -20,13 +20,15 @@ header {
     justify-content: space-between;
     align-items: center;
     padding: 20px;
+    padding-top: 50px;
     background-color: #fff;
-    border-bottom: 1px solid #ddd;
+    /*  border-bottom: 1px solid #ddd;*/
 }
 
 .logo {
     font-size: 20px;
     font-weight: bold;
+    padding-left: 20px;
 }
 
 nav ul {
@@ -45,12 +47,15 @@ nav ul li a:hover {
     color: #888;
 }
 
-
 .icons a {
-    margin-left: 20px;
+    margin-left: 15px;
+    font-size: 1.2em;
     color: #333;
-    text-decoration: none;
-    font-size: 18px;
+    transition: color 0.3s ease;
+}
+
+.icons a:hover {
+    color: #888;
 }
 
 .hero {
@@ -58,24 +63,33 @@ nav ul li a:hover {
     text-align: center;
     margin: 20px auto;
     max-width: 80%;
+    overflow: hidden;
 }
+
 
 .hero img {
     width: 100%;
     height: auto;
     display: block;
+
 }
 
 .text-content {
-    /* position: absolute;*/
-    bottom: 20px;
-    left: 20px;
+    padding-top: 20px;
     color: #333;
     text-align: right;
 }
 
-.text-content h1 {
+.text-content .h1-first {
     text-align: left;
+    font-size: 40px;
+    font-weight: 300;
+    line-height: 1.2;
+}
+
+.text-content .h1-last {
+    text-align: left;
+    padding-left: 300px;
     font-size: 40px;
     font-weight: 300;
     line-height: 1.2;
@@ -87,7 +101,7 @@ nav ul li a:hover {
     text-decoration: none;
     color: #333;
     font-weight: bold;
-    border-bottom: 1px solid #333;
+    /* border-bottom: 1px solid #333;*/
     padding-bottom: 2px;
     transition: color 0.3s, border-color 0.3s;
 }
