@@ -8,6 +8,8 @@ Bu proje, çiçek dükkanımızın online varlığını güçlendirmek ve kullan
 - Bireyler: Çiçek ve bitki satın almak isteyen kullanıcılar.
 - Organizasyonlar: Düğün veya özel etkinlik organizatörleri.
 - Yerel Müşteriler: Mağazayı ziyaret edebilecek yerel müşteriler.
+  
+Kullanıcılar, çeşitli çiçek aranjmanları arasından seçim yapabilecek, çiçeklerin bakımı hakkında bilgi edinebilecek ve online sipariş verebilecek.
 
 ## 1.3. Temel Özellikler
 Web sitesi aşağıdaki temel özellikleri sunacaktır:
