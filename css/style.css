@@ -116,3 +116,98 @@ nav ul li a:hover {
     color: #888;
     border-color: #888;
 }
+
+
+.best-sellers {
+    width: 100%;
+    height: auto;
+    background-image: url('../images/flowers1.jpg');
+    text-align: center;
+    padding-top: 20px;
+}
+
+/*
+.best-sellers img {
+    width: 100%;
+    height: auto;
+    display: block;
+    position: absolute;
+}*/
+
+.best-sellers h1 {
+    font-size: 2.5em;
+    color: #333;
+}
+
+/*
+.best-sellers h2 {
+    font-size: 1.5em;
+    margin-bottom: 40px;
+    color: #666;
+}
+
+.products {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+}
+
+.product-card {
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+    width: 200px;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.product-card img {
+    width: 100%;
+    height: auto;
+}
+
+.product-card h3 {
+    font-size: 1.2em;
+    margin: 10px 0;
+    color: #333;
+}
+
+.product-card p {
+    font-size: 1em;
+    color: #666;
+    margin-bottom: 10px;
+}
+
+.add-to-bag {
+    background-color: #32CD32;
+    color: white;
+    padding: 10px;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+    font-size: 1em;
+    transition: background-color 0.3s ease;
+}
+
+.add-to-bag:hover {
+    background-color: #228B22;
+}
+
+.see-all {
+    margin-top: 30px;
+}
+
+.see-all a {
+    text-decoration: none;
+    font-size: 1.2em;
+    color: #333;
+    border-bottom: 2px solid #333;
+    padding-bottom: 5px;
+    transition: border-color 0.3s ease;
+}
+
+.see-all a:hover {
+    border-color: #666;
+}*/
