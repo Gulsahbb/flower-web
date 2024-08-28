@@ -119,32 +119,28 @@ nav ul li a:hover {
 
 
 .best-sellers {
-    width: 100%;
-    height: auto;
+    /*  width: 100%;
+    height: auto;*/
     background-image: url('../images/flowers1.jpg');
+    background-repeat: no-repeat;
     text-align: center;
     padding-top: 20px;
+    padding-bottom: 20px;
 }
 
-/*
-.best-sellers img {
-    width: 100%;
-    height: auto;
-    display: block;
-    position: absolute;
-}*/
 
 .best-sellers h1 {
-    font-size: 2.5em;
+    font-size: 30px;
     color: #333;
 }
 
-/*
+
 .best-sellers h2 {
-    font-size: 1.5em;
+    font-size: 24px;
     margin-bottom: 40px;
     color: #666;
 }
+
 
 .products {
     display: flex;
@@ -153,9 +149,9 @@ nav ul li a:hover {
     gap: 20px;
 }
 
+
 .product-card {
     background-color: #fff;
-    border-radius: 8px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
     overflow: hidden;
     width: 200px;
@@ -169,7 +165,7 @@ nav ul li a:hover {
 }
 
 .product-card h3 {
-    font-size: 1.2em;
+    font-size: 20px;
     margin: 10px 0;
     color: #333;
 }
@@ -195,6 +191,7 @@ nav ul li a:hover {
     background-color: #228B22;
 }
 
+/*
 .see-all {
     margin-top: 30px;
 }
