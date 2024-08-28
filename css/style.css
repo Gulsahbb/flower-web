@@ -120,25 +120,29 @@ nav ul li a:hover {
 
 .best-sellers {
     width: 100%;
-    height: 763px;
-    /*   background-image: url('../images/flower-deneme-2.jpg');
-    background-repeat: no-repeat;*/
+    height: auto;
+    background-color: rgba(0, 0, 0, 1);
+    background-image: url('../images/deneme.PNG');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
     text-align: center;
     padding-top: 20px;
     padding-bottom: 20px;
 }
 
 
+
 .best-sellers h1 {
     font-size: 30px;
-    color: #333;
+    color: #fff;
 }
 
 
 .best-sellers h2 {
     font-size: 24px;
     margin-bottom: 80px;
-    color: #666;
+    color: #fff;
 }
 
 
@@ -198,8 +202,8 @@ nav ul li a:hover {
 
 .see-all a {
     text-decoration: none;
-    font-size: 1.2em;
-    color: #333;
+    font-size: 24px;
+    color: #fff;
     padding-bottom: 5px;
     transition: border-color 0.3s ease;
 }
