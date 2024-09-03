@@ -235,6 +235,7 @@ nav ul li a:hover {
 
 .about-us-content ul li {
     padding: 10px;
+    text-indent: 20px;
 }
 
 .about-us-image {
@@ -244,4 +245,81 @@ nav ul li a:hover {
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
+}
+
+/* FOOTER */
+footer {
+    background-color: #333;
+    color: #fff;
+    padding: 20px 0;
+    text-align: center;
+}
+
+footer .footer-container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+footer .footer-logo {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+footer .footer-nav {
+    margin-bottom: 20px;
+}
+
+footer .footer-nav ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+}
+
+footer .footer-nav ul li {
+    display: inline;
+}
+
+footer .footer-nav ul li a {
+    color: #fff;
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
+
+footer .footer-nav ul li a:hover {
+    color: #888;
+}
+
+footer .social-icons {
+    margin-bottom: 20px;
+}
+
+footer .social-icons a {
+    color: #fff;
+    margin: 0 10px;
+    font-size: 20px;
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
+
+footer .social-icons a:hover {
+    color: #888;
+}
+
+footer p {
+    font-size: 14px;
+    color: #bbb;
+}
+
+footer p a {
+    color: #fff;
+    text-decoration: none;
+}
+
+footer p a:hover {
+    color: #888;
 }
