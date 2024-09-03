@@ -213,20 +213,34 @@ nav ul li a:hover {
 }
 
 .about-us {
-    width: 100%;
-    height: auto;
     display: flex;
     justify-content: center;
 }
 
 .about-us-content {
     width: 1000px;
-    padding: 20px;
+    padding: 50px;
+}
+
+.about-us-content h2 {
+    font-size: 30px;
+    text-align: center;
+}
+
+.about-us-content ul {
+    font-size: 20px;
+    padding-top: 20px;
+    list-style-type: none;
+}
+
+.about-us-content ul li {
+    padding: 10px;
 }
 
 .about-us-image {
     width: 1000px;
-    background-image: url('../images/flower5.jpg');
+    height: 600px;
+    background-image: url('../images/flower6.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
