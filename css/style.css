@@ -219,7 +219,10 @@ nav ul li a:hover {
 
 .about-us-content {
     width: 1000px;
+    height: 600px;
     padding: 50px;
+    /*  max-width: 1200px;
+    margin: 0 auto;*/
 }
 
 .about-us-content h2 {
@@ -249,7 +252,7 @@ nav ul li a:hover {
 
 /* FOOTER */
 footer {
-    background-color: #333;
+    background-color: #333333ee;
     color: #fff;
     padding: 20px 0;
     text-align: center;
