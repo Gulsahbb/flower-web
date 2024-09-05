@@ -43,3 +43,5 @@ Amaç: Web sitenin hangi sayfalardan oluşacağını ve bu sayfaların nasıl bi
   
 ## 2.2. Wireframe (Tasarım Taslağı) Oluşturma
 **Prototype** : https://www.canva.com/design/DAGPDp1JrJk/ayo9pKZ_DZAZf47P7Pdk9g/edit?utm_content=DAGPDp1JrJk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+# 3. Geliştirmeye Başlama
