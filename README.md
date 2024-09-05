@@ -45,3 +45,5 @@ Amaç: Web sitenin hangi sayfalardan oluşacağını ve bu sayfaların nasıl bi
 **Prototype** : https://www.canva.com/design/DAGPDp1JrJk/ayo9pKZ_DZAZf47P7Pdk9g/edit?utm_content=DAGPDp1JrJk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 # 3. Geliştirmeye Başlama
+## 3.1. HTML ve CSS ile Başlama
+İlk olarak, HTML dosyalarını oluşturarak her sayfanın temel yapısını hazırlamak. Ardından, CSS kullanarak sitenizin temel stilini ve düzenini ayarlmak.
